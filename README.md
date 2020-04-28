@@ -1,6 +1,6 @@
-# postgres
+# POSTGRESQL
 
-Practicing PostgreSQL with Python from official document.
+Practising PostgreSQL with Python from official document.
 
 Document link: https://www.postgresqltutorial.com/postgresql-python/create-tables/
 
